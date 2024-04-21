@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T12:15:34 IST" name="Suite" finished-at="2024-03-27T12:15:56 IST" duration-ms="22785">
+    <groups>
+    </groups>
+    <test started-at="2024-03-27T12:15:34 IST" name="Test" finished-at="2024-03-27T12:15:56 IST" duration-ms="22785">
+      <class name="easySeleniumTests.homePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:easySeleniumTests.homePageTest@24fcf36f]" started-at="2024-03-27T12:15:34 IST" name="setup" finished-at="2024-03-27T12:15:34 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method,java.lang.String)[pri:0, instance:easySeleniumTests.homePageTest@24fcf36f]" started-at="2024-03-27T12:15:34 IST" name="beforeMethod" finished-at="2024-03-27T12:15:36 IST" duration-ms="2115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void easySeleniumTests.homePageTest.validatehomepage_menuitems() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[optional]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatehomepage_menuitems()[pri:0, instance:easySeleniumTests.homePageTest@24fcf36f]" started-at="2024-03-27T12:15:36 IST" name="validatehomepage_menuitems" finished-at="2024-03-27T12:15:40 IST" duration-ms="4716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatehomepage_menuitems -->
+        <test-method is-config="true" signature="verifyTestStatus()[pri:0, instance:easySeleniumTests.homePageTest@24fcf36f]" started-at="2024-03-27T12:15:41 IST" name="verifyTestStatus" finished-at="2024-03-27T12:15:41 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:easySeleniumTests.homePageTest@24fcf36f]" started-at="2024-03-27T12:15:57 IST" name="tearDown" finished-at="2024-03-27T12:15:57 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- easySeleniumTests.homePageTest -->
+      <class name="easySeleniumTests.inputformValidationTest">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method,java.lang.String)[pri:0, instance:easySeleniumTests.inputformValidationTest@14555e0a]" started-at="2024-03-27T12:15:34 IST" name="beforeMethod" finished-at="2024-03-27T12:15:36 IST" duration-ms="2115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void easySeleniumTests.inputformValidationTest.validatehomepage_menuitems() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[optional]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validatehomepage_menuitems()[pri:0, instance:easySeleniumTests.inputformValidationTest@14555e0a]" started-at="2024-03-27T12:15:36 IST" name="validatehomepage_menuitems" finished-at="2024-03-27T12:15:56 IST" duration-ms="20448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatehomepage_menuitems -->
+        <test-method is-config="true" signature="verifyTestStatus()[pri:0, instance:easySeleniumTests.inputformValidationTest@14555e0a]" started-at="2024-03-27T12:15:56 IST" name="verifyTestStatus" finished-at="2024-03-27T12:15:56 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTestStatus -->
+      </class> <!-- easySeleniumTests.inputformValidationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
